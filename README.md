@@ -43,5 +43,5 @@ Unfortunately not all desired features were able to be implemented in time. Some
 - gh-pages [only required for deployment for github pages]
 
 
-#API
+# API
 A simple mock json API is used. It is hosted using [JSON Placeholder](https://jsonplaceholder.typicode.com/). Unfortunately this means POST data does not persist across calls. Therefore all submitted data is only stored locally for this example deployment.
