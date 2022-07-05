@@ -3,8 +3,6 @@ Community note taking web application create as technical challenge for My Commu
 
 [Try it in your browser!](https://jlcodingprojects.github.io/)
 
-(Enter you first name for login, no password required)
-
 # Features
 - Fully responsive
 - Simple API calls to retrieve list of notes
