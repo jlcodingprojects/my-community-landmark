@@ -31,6 +31,7 @@ Unfortunately not all desired features were able to be implemented in time. Some
 - Correct authorisation implementation
 - Grouping markers that are too close together and auto-zooming on them
 - Displaying all notes for a single location in one dialog so you can switch between them
+- Ability to delete and edit user owned notes
 
 
 # Dependencies
