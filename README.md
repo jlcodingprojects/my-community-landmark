@@ -8,7 +8,8 @@ Community note taking web application created as technical challenge for My Comm
 - Simple API calls to retrieve list of notes
 - Extensive use of react hooks
 - Managing state, session, and local data
-- View current location and add note as profile at location
+- View current location
+- Submit new note attached to current location
 - See all other notes submitted by users
 - Search through notes via contents of user name
 
