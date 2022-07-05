@@ -14,7 +14,9 @@ First create default application
 npx create-react-app my-community-landmark
 ```
 Delete all files in the ./src directory and replace with src files from repository
+
 Install required dependencies listed below
+
 You're done!
 ```
 npm start
@@ -22,13 +24,11 @@ npm start
 
 # Roadmap
 Unfortunately not all desired features were able to be implemented in time. Some awesome planned features include
+
 - Serverside searching/filtering
 - Correct authorisation implementation
 - Grouping markers that are too close together and auto-zooming on them
 - Displaying all notes for a single location in one dialog so you can switch between them
-
-# Known issues
-
 
 
 # Dependencies
@@ -38,6 +38,7 @@ Unfortunately not all desired features were able to be implemented in time. Some
 - react-leaflet
 - react-router-dom
 - gh-pages [only required for deployment for github pages]
+
 
 #API
 A simple mock json API is used. It is hosted using [JSON Placeholder](https://jsonplaceholder.typicode.com/). Unfortunately this means POST data does not persist across calls. Therefore all submitted data is only stored locally for this example deployment.
