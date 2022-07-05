@@ -1,4 +1,4 @@
-# my-community-landmark
+# My Community Landmark
 Community note taking web application created as technical challenge for My Community Directory.
 
 [Try it in your browser!](https://jlcodingprojects.github.io/)
