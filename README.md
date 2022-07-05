@@ -1,9 +1,7 @@
 # my-community-landmark
 Community note taking web application create as technical challenge for My Community Directory.
 
-# 
-
-## [TRY IT OUT](https://jlcodingprojects.github.io/)
+[Try it in your browser!](https://jlcodingprojects.github.io/)
 
 # Features
 - Fully responsive
