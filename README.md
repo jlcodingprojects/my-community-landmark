@@ -1,5 +1,5 @@
 # my-community-landmark
-Community note taking web application create as technical challenge for My Community Directory.
+Community note taking web application created as technical challenge for My Community Directory.
 
 [Try it in your browser!](https://jlcodingprojects.github.io/)
 
