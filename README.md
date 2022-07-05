@@ -19,7 +19,7 @@ First create default application
 ```
 npx create-react-app my-community-landmark
 ```
-Delete all files in the ./src directory and replace with src files from repository
+Delete all files in the ./src directory and replace with source files from repository
 
 Install required dependencies listed below
 
