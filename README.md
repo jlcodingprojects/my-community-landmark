@@ -11,7 +11,7 @@ Community note taking web application created as technical challenge for My Comm
 - View current location and add note as profile at location
 - See all other notes submitted by users
 - Search through notes via contents of user name
-- 
+
 # Compiling
 
 First create default application
