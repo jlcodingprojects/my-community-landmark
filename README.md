@@ -32,6 +32,9 @@ Unfortunately not all desired features were able to be implemented in time. Some
 - Grouping markers that are too close together and auto-zooming on them
 - Displaying all notes for a single location in one dialog so you can switch between them
 - Ability to delete and edit user owned notes
+- View current location and add note as profile at location
+- See all other notes submitted by users
+- Search through notes via contents of user name
 
 
 # Dependencies
